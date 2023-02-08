@@ -1,0 +1,3 @@
+[submodule "ansible-role-lets-encrypt-route-53"]
+	path = ansible-role-lets-encrypt-route-53
+	url = https://github.com/mprahl/ansible-role-lets-encrypt-route-53.git
